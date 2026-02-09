@@ -17,7 +17,6 @@ Key concepts and features covered in this project include:
 - Spring IoC container
 - Configuring beans using annotations
 
-This project is intended for **educational purposes** to solidify foundational Spring Boot skills.
 
 ## Technology Stack
 
